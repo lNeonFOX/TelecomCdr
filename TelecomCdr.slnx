@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TelecomCdr/TelecomCdr.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TelecomCdr.Tests/TelecomCdr.Tests.csproj" />
+  </Folder>
+</Solution>
