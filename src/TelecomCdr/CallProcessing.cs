@@ -13,7 +13,7 @@ public static class CallProcessing
             total += CallPricing.CalculateCost(in record);
         return total;
     }
-    
+
      public static decimal ProcessCallsParallel(CallRecord[] records)
     {
         ArgumentNullException.ThrowIfNull(records);

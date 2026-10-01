@@ -1,13 +1,13 @@
 # Assignment 2: Multithreaded Telecom Call Processing Pipeline
 
-Course: FP 3222 — Introduction to Functional Programming, Astana IT University
+Course: IFP — Introduction to Functional Programming, Astana IT University
 Platform: C# 12 / .NET (targeted at net10.0 SDK; language features used are net8.0-compatible)
-Student: Торехан Таймас Тореханулы
+Student: Torekhan Taimas
 
 ## 1. Build, run, test
 
 ```
-dotnet build
+dotnet build [TelecomCdr folder]
 dotnet run --project src/TelecomCdr
 dotnet test
 ```
